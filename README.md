@@ -11,4 +11,7 @@ A quick record of things that I did to configure my mac when first setting it up
 . Install dev-tools (type git in terminal, and a prompt should come up)
 . Install Rectangle (tile manager)
 . Install ohmyzsh (batteries included zsh configuration & config manager)
+
+## Git
 . Create and add github personal access token
+. Configure github user name and email
